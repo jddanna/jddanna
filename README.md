@@ -26,7 +26,7 @@ I like to learn and teach topics in data science and machine learning.
 
 
 ### ☕ Get In Touch
-- [Personal Site](teknoodle.com)
+- [Personal Site](https://teknoodle.com)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jddanna.jddanna)
 
